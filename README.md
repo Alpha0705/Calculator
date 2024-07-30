@@ -1,4 +1,4 @@
-# Calculator
-#Basic Responsive calculator 
-Languages used -HTML,CSS,Javascipt
+# Calculator <br>
+Basic Responsive calculator <br> 
+Languages used -HTML,CSS,Javascipt <br>
 Made by Neev Shah
